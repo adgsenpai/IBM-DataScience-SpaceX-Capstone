@@ -24,5 +24,5 @@ to be completed ...
 ##### Acknowledgements I
 
 
-## © Copyright IBM Corporation 1994, 2021.
-## © ADGSTUDIOS 2021
+##### © Copyright IBM Corporation 1994, 2021.
+##### © ADGSTUDIOS 2021
