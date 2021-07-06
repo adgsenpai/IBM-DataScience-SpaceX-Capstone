@@ -19,7 +19,7 @@ to be completed ...
 
 ### Author
 
-#### Ashlin Darius Govindasamy
+Ashlin Darius Govindasamy
 
 ### Acknowledgements 
 
