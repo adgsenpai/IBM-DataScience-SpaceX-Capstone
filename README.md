@@ -15,3 +15,14 @@ to be completed ...
 | 05/06/2021 | Cleaning up of GitHub Repo             |
 | 06/06/2021 | WebFlask Dev with PythonAnywhere       |
 | 07/06/2021 | WebFlask Files dropped                 |
+
+
+### Author
+
+#### Ashlin Darius Govindasamy
+
+##### Acknowledgements I
+
+
+## © Copyright IBM Corporation 1994, 2021.
+## © ADGSTUDIOS 2021
