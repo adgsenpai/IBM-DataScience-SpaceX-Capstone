@@ -9,13 +9,14 @@ to be completed ...
 ### Changelog
 
 
-| Date           | Job Done        | 
-|----------------| --------------- | 
-| 04/06/2021 | Jypyter Lab Projects dumped into Repo  |
-| 05/06/2021 | Cleaning up of GitHub Repo             |
-| 06/06/2021 | WebFlask Dev with PythonAnywhere       |
-| 07/06/2021 | WebFlask Files dropped                 |
-| 08/06/2021 | EDA-DataViz Typo Fixed                 |
+| Date           | Job Done                                  | 
+|----------------| ----------------------------------------- | 
+| 04/06/2021 | Jypyter Lab Projects dumped into Repo         |
+| 05/06/2021 | Cleaning up of GitHub Repo                    |
+| 06/06/2021 | WebFlask Dev with PythonAnywhere              |
+| 07/06/2021 | WebFlask Files dropped                        |
+| 08/06/2021 | EDA-DataViz Typo Fixed                        |
+| 09/06/2021 | launch_site_locations added new distance data |
 
 ### Author
 
