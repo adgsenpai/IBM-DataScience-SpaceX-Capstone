@@ -1,5 +1,8 @@
 <img src="https://raw.githubusercontent.com/ADGVLOGS/IBM-DataScience-SpaceX-Capstone/main/logo/bg.png">
 
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/ADGVLOGS/IBM-DataScience-SpaceX-Capstone.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ADGVLOGS/IBM-DataScience-SpaceX-Capstone/alerts/)
+[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/ADGVLOGS/IBM-DataScience-SpaceX-Capstone.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ADGVLOGS/IBM-DataScience-SpaceX-Capstone/context:python)
+
 ## About
 
 I predicted if the Falcon 9 first stage will land successfully. SpaceX
