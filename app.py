@@ -11,7 +11,8 @@ max_payload = spacex_df['Payload Mass (kg)'].max()
 min_payload = spacex_df['Payload Mass (kg)'].min()
 
 
-app = dash.Dash()
+app = dash.Dash(__name__)
+server = app.server
 
 uniquelaunchsites = spacex_df['Launch Site'].unique().tolist()
 lsites = []
@@ -102,5 +103,6 @@ def update_scattergraph(site_dropdown,payload_slider):
     return fig
 
 
+
 if __name__ == '__main__':
-   app.run_server(debug=False,port=8000)
+    app.run_server(debug=False)
