@@ -4,6 +4,11 @@
 [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/ADGVLOGS/IBM-DataScience-SpaceX-Capstone.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ADGVLOGS/IBM-DataScience-SpaceX-Capstone/context:python)
 <a href="https://colab.research.google.com/github/ADGVLOGS/adgmlclass/blob/main/ADGMLCLASSDemo.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Interactive Demo"/></a>
 
+To visit the Plotly Dash - dashboard
+https://adgspacexdashboard.herokuapp.com/ 
+
+click the link above
+
 ## About
 
 I predicted if the Falcon 9 first stage will land successfully. SpaceX
