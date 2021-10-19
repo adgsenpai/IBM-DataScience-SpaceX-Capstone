@@ -2,3 +2,4 @@ pandas
 numpy
 Flask
 Dash
+gunicorn
