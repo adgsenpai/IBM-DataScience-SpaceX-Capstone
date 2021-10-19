@@ -29,6 +29,7 @@ alternate company wants to bid against SpaceX for a rocket launch.
 | 07/06/2021 | WebFlask Files dropped                        |
 | 08/06/2021 | EDA-DataViz Typo Fixed                        |
 | 09/06/2021 | launch_site_locations added new distance data |
+| 19/10/2021 | added Plotly to Heroku as request by user     |
 
 ### Author
 
