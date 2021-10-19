@@ -13,8 +13,6 @@ min_payload = spacex_df['Payload Mass (kg)'].min()
 
 app = dash.Dash()
 
-server = app.server
-
 uniquelaunchsites = spacex_df['Launch Site'].unique().tolist()
 lsites = []
 lsites.append({'label': 'All Sites', 'value': 'All Sites'})
