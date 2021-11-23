@@ -19,12 +19,13 @@ alternate company wants to bid against SpaceX for a rocket launch.
 <p>
 A letter from Ashlin Darius Govindasamy regarding Plagiarism on this repo
   
-Thank you again for bootstrapping and showing your love on my email/GitHub I really appreciate it. I did not know this repo was gonna blow up.
-I got a slight problem some people just forking this repo and submitting it to IBM. Forking the repo means copying it into your repo and i permit that but i dont permit you submitting my work to IBM and getting dupplicates of the project. The reason you paid for the course is that you wanted to learn about Machine Learning/AI and not that certificate. Remember the way you learn something is by practicing and failing. Your success is driven from your failures but what happens if you are successful first time? Well you wont have an alternative view to the problem or you will have a narrow path of an approach to the problem. While i did the Capstone. I consulted manuals on Matlab, Plotly, Dash, Gunicorn etc ... I took it to the next step and put the dashboard on the cloud i even wrote some modules for this Capstone experiementing. When you do the work put in the grind/hours thats when you learn alot and absorb in your brain.
+Thank you again for bootstrapping and showing your love on my email/GitHub I appreciate it. I did not know this repo was gonna blow up.
+I got a slight problem with some people just forking this repo and submitting it to IBM. Forking the repo means copying it into your repo and I permit that but I don't permit you to submit my work to IBM and get duplicates of the project. The reason you paid for the course is that you wanted to learn about Machine Learning/AI and not that certificate. Remember the way you learn something is by practicing and failing. Your success is driven by your failures but what happens if you are successful the first time? Well, you won't have an alternative view to the problem or you will have a narrow path of an approach to the problem. While I did the Capstone. I consulted manuals on Matlab, Plotly, Dash, Gunicorn, etc ... I took it to the next step and put the dashboard on the cloud I even wrote some modules for this Capstone experimenting. When you do the work put in the grind/hours that's when you learn a lot and absorb it in your brain.
   
-Dont be a cheater and submit my repos, a person wrote a mail to me regarding this problem always remember its not the certificate which is important. Its you the carrier of the skills taking that knowledge to your working place/Personal Company(for entrapreneurs). If you are having a problem with the notebooks feel free to consult my notebooks and learn from your mistakes.
+Don't be a cheater and submit my repos, a person wrote a mail to me regarding this problem always remember it is not the important certificate. It is you the carrier of the skills taking that knowledge to your working place/Personal Company(for entrepreneurs). If you are having a problem with the notebooks feel free to consult my notebooks and learn from your mistakes.
   
 Best Regards
+  
 Ashlin Darius Govindasamy
 </p>
 
