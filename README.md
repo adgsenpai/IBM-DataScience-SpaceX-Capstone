@@ -28,9 +28,11 @@ Best Regards
 Ashlin Darius Govindasamy
 </p>
 
-<img src="https://cdn.buttercms.com/T27FzLr5TIySqJ0mCObR" height="200px">
+-------------------------------------------------------------------------------------------------------------------------
 
 ## Heroku Deployment (To host the Dashboard in the Cloud for Free) 
+<img src="https://cdn.buttercms.com/T27FzLr5TIySqJ0mCObR" height="200px">
+
 ### What you can do is 
 
 1. Fork the Repo
