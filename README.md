@@ -40,7 +40,7 @@ Ashlin Darius Govindasamy
 2. Login to Heroku create a new application
 3. Once created the new app. Link up the repo with the forked Repo. 
 ![image](https://user-images.githubusercontent.com/45560312/143025991-4a32d343-77d7-48ed-a332-bad8a76835da.png)
-4. Added the buildpack
+4. Add the buildpack
 ![image](https://user-images.githubusercontent.com/45560312/143026138-6345105a-a981-42c6-ba48-0fd61be17694.png)
 5. Deploy
 ![image](https://user-images.githubusercontent.com/45560312/143026171-9c8e20c2-e1c1-4b75-b313-4cdb0e827aed.png)
@@ -64,7 +64,7 @@ click the link above
 | 08/06/2021 | EDA-DataViz Typo Fixed                        |
 | 09/06/2021 | launch_site_locations added new distance data |
 | 19/10/2021 | added Plotly to Heroku as request by user     |
-
+| 23/11/2021 | added Plagiarism letter and Heroku Guide      | 
 ### Author
 
 Ashlin Darius Govindasamy
