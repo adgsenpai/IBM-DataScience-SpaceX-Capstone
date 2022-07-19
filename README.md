@@ -51,6 +51,19 @@ https://adgspacexdashboard.herokuapp.com/
 
 click the link above
 
+## Playing with Docker
+![image](https://user-images.githubusercontent.com/45560312/179637474-6156cb47-94ca-45c9-a017-79ed4065403d.png)
+
+Well go to my lab @ http://lab.adgstudios.co.za/docker
+
+fill in the following details and you can deploy my image on the cloud at my domain.
+
+you should see something like this when done but name will be different!
+
+![image](https://user-images.githubusercontent.com/45560312/179637689-2fed8a6b-5c8c-41eb-854f-86f1a11e9025.png)
+
+then click the globe icon to view the image which is the dash website deployed globally!
+
 
 
 ### Changelog
