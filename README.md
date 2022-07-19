@@ -65,7 +65,8 @@ click the link above
 | 09/06/2021 | launch_site_locations added new distance data |
 | 19/10/2021 | added Plotly to Heroku as request by user     |
 | 23/11/2021 | added Plagiarism letter and Heroku Guide      | 
-| 7/19/2022 | created discussions community                  | 
+| 19/07/2022 | created discussions community                 | 
+| 19/07/2022 | added public docker image for dash            | 
 ### Author
 
 Ashlin Darius Govindasamy
