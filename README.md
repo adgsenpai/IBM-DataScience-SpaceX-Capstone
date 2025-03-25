@@ -1,8 +1,20 @@
 <img src="https://raw.githubusercontent.com/ADGVLOGS/IBM-DataScience-SpaceX-Capstone/main/logo/bg.png">
 
-[![Total alerts](https://img.shields.io/lgtm/alerts/g/ADGVLOGS/IBM-DataScience-SpaceX-Capstone.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ADGVLOGS/IBM-DataScience-SpaceX-Capstone/alerts/)
-[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/ADGVLOGS/IBM-DataScience-SpaceX-Capstone.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ADGVLOGS/IBM-DataScience-SpaceX-Capstone/context:python)
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/ADGVLOGS/IBM-DataScience-SpaceX-Capstone.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/adgsenpai/IBM-DataScience-SpaceX-Capstone/alerts/)
+[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/ADGVLOGS/IBM-DataScience-SpaceX-Capstone.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/adgsenpai/IBM-DataScience-SpaceX-Capstone/context:python)
 <a href="https://colab.research.google.com/github/ADGVLOGS/adgmlclass/blob/main/ADGMLCLASSDemo.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Interactive Demo"/></a>
+
+## To run
+
+```
+python3 -m pip install -r requirements.txt
+```
+
+then 
+
+```
+python3 app.py
+```
 
 ## About
 
